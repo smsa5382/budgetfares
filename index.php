@@ -171,7 +171,7 @@ reservation under the correct price or to cancel the reservation without
         </nav>
       </div></footer>
     <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+      <a class="u-link" href="tel:+18888400870" target="_blank">
         <span>Website Templates</span>
       </a>
       <p class="u-text">
